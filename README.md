@@ -1,3 +1,9 @@
 # Kat-Klicker
 Made for college !
-WIP!
+
+Models used :
+- [El Gato]()
+-
+-
+
+Background song:
