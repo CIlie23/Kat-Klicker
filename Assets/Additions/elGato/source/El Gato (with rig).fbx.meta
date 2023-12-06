@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 690c4dec1c2c0964ba3b778b96534ffc
+timeCreated: 1701814174
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bicep.l
+    100002: bicep.r
+    100004: Body
+    100006: Bone
+    100008: calf.l
+    100010: calf.l_end
+    100012: calf.r
+    100014: calf.r_end
+    100016: chest
+    100018: ear.l
+    100020: ear.l 1
+    100022: ear.l_end
+    100024: ear.r
+    100026: ear.r 1
+    100028: ear.r_end
+    100030: //RootNode
+    100032: El Gato Skeleton
+    100034: forearm.l
+    100036: forearm.l_end
+    100038: forearm.r
+    100040: forearm.r_end
+    100042: head
+    100044: head 1
+    100046: thigh.l
+    100048: thigh.r
+    400000: bicep.l
+    400002: bicep.r
+    400004: Body
+    400006: Bone
+    400008: calf.l
+    400010: calf.l_end
+    400012: calf.r
+    400014: calf.r_end
+    400016: chest
+    400018: ear.l
+    400020: ear.l 1
+    400022: ear.l_end
+    400024: ear.r
+    400026: ear.r 1
+    400028: ear.r_end
+    400030: //RootNode
+    400032: El Gato Skeleton
+    400034: forearm.l
+    400036: forearm.l_end
+    400038: forearm.r
+    400040: forearm.r_end
+    400042: head
+    400044: head 1
+    400046: thigh.l
+    400048: thigh.r
+    2300000: ear.l 1
+    2300002: ear.r 1
+    2300004: head 1
+    3300000: ear.l 1
+    3300002: ear.r 1
+    3300004: head 1
+    4300000: head
+    4300002: ear.l
+    4300004: ear.r
+    4300006: Body
+    7400000: El Gato Skeleton|Armature.001|Armature|Armature.001|Armature|ArmatureAction.001|
+    7400002: El Gato Skeleton|Armature.001|Armature|ArmatureAction.001|Armature|ArmatureA
+    7400004: El Gato Skeleton|Armature.001|Armature|ArmatureAction.001|Armature|ArmatureActio
+    7400006: El Gato Skeleton|El Gato Skeleton.001|El Gato Skeleton|Armature.001|Armature
+    7400008: El Gato Skeleton|El Gato Skeleton.001|El Gato Skeleton|Armature.001|Armature.001
+    7400010: El Gato Skeleton|El Gato Skeleton.001|El Gato Skeleton|Armature.001|Armature.002
+    7400012: El Gato Skeleton|El Gato Skeleton.001|El Gato Skeleton|Armature.001|Armature.003
+    7400014: El Gato Skeleton|El Gato Skeleton.001|El Gato Skeleton|Armature.001|Armature.004
+    7400016: El Gato Skeleton|El Gato Skeleton.001|El Gato Skeleton|Armature.001|Armature|Arm
+    7400018: El Gato Skeleton|El Gato SkeletonAction
+    9500000: //RootNode
+    13700000: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
